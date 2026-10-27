@@ -47,9 +47,9 @@ Interested in digital design, experimental interfaces, creative coding, and the 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/YOUR_USERNAME)
-[![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](YOUR_DISCORD_LINK)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](YOUR_PORTFOLIO_LINK)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/qhonk1)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/Enc4hZs8jP)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://payhip.com/berrystudio)
 
 </div>
 
