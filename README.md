@@ -18,7 +18,7 @@
 ║  CLASS      :: DESIGNER / DEVELOPER      ║
 ║  STATUS     :: ONLINE                    ║
 ║  REALITY    :: DIGITAL                   ║
-║  PROTOCOL   :: CONTROLLED CHAOS           ║
+║  PROTOCOL   :: CONTROLLED CHAOS          ║
 ╚══════════════════════════════════════════╝
 ```
 
